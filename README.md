@@ -9,6 +9,7 @@ A curated skills map and reading list for PCB design, with a focus on drones, UA
 | [docs/02-drone-aircraft-electronics.md](docs/02-drone-aircraft-electronics.md) | Skills specific to drones, UAVs, and aircraft |
 | [docs/03-resources.md](docs/03-resources.md) | Books, courses, tools, standards, and communities |
 | [docs/04-learning-path.md](docs/04-learning-path.md) | Step-by-step roadmap and project ideas |
+| [docs/05-study-material.md](docs/05-study-material.md) | Topic-by-topic study material: books, courses, app notes, and projects |
 
 ## Quick Start
 1. Learn basic electronics.
